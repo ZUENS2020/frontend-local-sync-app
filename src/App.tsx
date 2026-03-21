@@ -1088,7 +1088,7 @@ export default function App() {
                     type="text"
                     value={apiBaseUrl}
                     onChange={(e) => setApiBaseUrl(e.target.value)}
-                    placeholder="https://dev.zuens2020.work"
+                    placeholder="https://sherpa.zuens2020.work"
                     className="w-full bg-zinc-100 py-3 px-4 font-mono text-sm tracking-tight outline-none focus:ring-2 focus:ring-emerald-700"
                   />
                   <p className="mt-2 font-mono text-[10px] text-zinc-400">
